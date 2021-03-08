@@ -1,11 +1,6 @@
 package com.nikdenik.gui;
 
-import com.nikdenik.model.data.OperationType;
-import com.nikdenik.model.data.TimeRelationType;
-
 import javax.swing.*;
-import java.awt.event.InputMethodEvent;
-import java.awt.event.InputMethodListener;
 
 public class MainPanel {
     private JButton OKButton;
